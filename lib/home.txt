@@ -1,0 +1,418 @@
+import 'package:flutter/material.dart';
+import 'package:flutterapp/mom2beapp/generatedimage16widget/GeneratedImage16Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop89widget/GeneratedDesktop89Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop112widget/GeneratedDesktop112Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop45widget/GeneratedDesktop45Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop87widget/GeneratedDesktop87Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop117widget/GeneratedDesktop117Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop4widget/GeneratedDesktop4Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop7widget/GeneratedDesktop7Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop5widget/GeneratedDesktop5Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop6widget/GeneratedDesktop6Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop8widget/GeneratedDesktop8Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop17widget/GeneratedDesktop17Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop9widget/GeneratedDesktop9Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop18widget/GeneratedDesktop18Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop13widget/GeneratedDesktop13Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop15widget/GeneratedDesktop15Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop16widget/GeneratedDesktop16Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop11widget/GeneratedDesktop11Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedslice1widget/GeneratedSlice1Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop12widget/GeneratedDesktop12Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop25widget/GeneratedDesktop25Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop22widget/GeneratedDesktop22Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop14widget/GeneratedDesktop14Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop19widget/GeneratedDesktop19Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddragonajaywidget/GeneratedDRAGONAJAYWidget.dart';
+import 'package:flutterapp/mom2beapp/generateddragonajaywidget1/GeneratedDRAGONAJAYWidget1.dart';
+import 'package:flutterapp/mom2beapp/generatedrectangle34widget4/GeneratedRectangle34Widget4.dart';
+import 'package:flutterapp/mom2beapp/generatedrectangle35widget4/GeneratedRectangle35Widget4.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop23widget/GeneratedDesktop23Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop24widget/GeneratedDesktop24Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse12widget/GeneratedEllipse12Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse13widget/GeneratedEllipse13Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse17widget/GeneratedEllipse17Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse19widget/GeneratedEllipse19Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse18widget/GeneratedEllipse18Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse14widget/GeneratedEllipse14Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse15widget/GeneratedEllipse15Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse16widget/GeneratedEllipse16Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse20widget/GeneratedEllipse20Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop26widget/GeneratedDesktop26Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop27widget/GeneratedDesktop27Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup27widget/GeneratedGroup27Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedbklaunchpagewidget/GeneratedBklaunchpageWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedbklaunchpagewidget1/GeneratedBklaunchpageWidget1.dart';
+import 'package:flutterapp/mom2beapp/generatedbkloginwidget/GeneratedBkloginWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedbkloginwidget1/GeneratedBkloginWidget1.dart';
+import 'package:flutterapp/mom2beapp/generatedfaqswidget3/GeneratedFAQsWidget3.dart';
+import 'package:flutterapp/mom2beapp/generatedbkselectinggenrewidget/GeneratedBkselectinggenreWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedbkcreateaccountwidget/GeneratedBkcreateaccountWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedbkprofilewidget/GeneratedBkprofileWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedpolygon17widget/GeneratedPolygon17Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedpolygon18widget/GeneratedPolygon18Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedbkuserprofilewidget/GeneratedBkuserprofileWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedbkuserprofileafterborrowwidget/GeneratedBkuserprofileafterborrowWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedreadingstatswidget/GeneratedReadingstatsWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedfaqswidget4/GeneratedFAQsWidget4.dart';
+import 'package:flutterapp/mom2beapp/generatedbkgenredropdownwidget/GeneratedBkgenredropdownWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedfaqswidget5/GeneratedFAQsWidget5.dart';
+import 'package:flutterapp/mom2beapp/generatedreadinglogwidget7/GeneratedReadinglogWidget7.dart';
+import 'package:flutterapp/mom2beapp/generatedbkpurchasewidget/GeneratedBkpurchaseWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedbkpurchasesuccessfulwidget/GeneratedBkpurchasesuccessfulWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedbkthumbnailwidget/GeneratedBKTHUMBNAILWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedfaqswidget6/GeneratedFAQsWidget6.dart';
+import 'package:flutterapp/mom2beapp/generatedbkhomepagewidget/GeneratedBkhomepageWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedfaqswidget7/GeneratedFAQsWidget7.dart';
+import 'package:flutterapp/mom2beapp/generatedbkhomepage2widget/GeneratedBkhomepage2Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedfaqswidget8/GeneratedFAQsWidget8.dart';
+import 'package:flutterapp/mom2beapp/generatedbkhomepage1widget/GeneratedBkhomepage1Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedfaqswidget9/GeneratedFAQsWidget9.dart';
+import 'package:flutterapp/mom2beapp/generatedbkgenreswidget/GeneratedBkgenresWidget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop28widget/GeneratedDesktop28Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop30widget/GeneratedDesktop30Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop101widget/GeneratedDesktop101Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop104widget/GeneratedDesktop104Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop108widget/GeneratedDesktop108Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedloginwidget15/GeneratedLoginWidget15.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop100widget/GeneratedDesktop100Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop107widget/GeneratedDesktop107Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop49widget/GeneratedDesktop49Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop48widget/GeneratedDesktop48Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop115widget/GeneratedDesktop115Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse35widget1/GeneratedEllipse35Widget1.dart';
+import 'package:flutterapp/mom2beapp/generatedvuesaxlinearhomewidget6/GeneratedVuesaxlinearhomeWidget6.dart';
+import 'package:flutterapp/mom2beapp/generatedcrackacookiewidget2/GeneratedCrackacookieWidget2.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop75widget/GeneratedDesktop75Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedhomewidget10/GeneratedHomeWidget10.dart';
+import 'package:flutterapp/mom2beapp/generatedvuesaxlinearhomewidget8/GeneratedVuesaxlinearhomeWidget8.dart';
+import 'package:flutterapp/mom2beapp/generatedrectangle2725widget/GeneratedRectangle2725Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop33widget/GeneratedDesktop33Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop80widget/GeneratedDesktop80Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop84widget/GeneratedDesktop84Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop93widget/GeneratedDesktop93Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop82widget/GeneratedDesktop82Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop110widget/GeneratedDesktop110Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop42widget/GeneratedDesktop42Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop111widget/GeneratedDesktop111Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop88widget/GeneratedDesktop88Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop105widget/GeneratedDesktop105Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop102widget/GeneratedDesktop102Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop103widget/GeneratedDesktop103Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop43widget/GeneratedDesktop43Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop44widget/GeneratedDesktop44Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup72widget1/GeneratedGroup72Widget1.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop46widget/GeneratedDesktop46Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop97widget/GeneratedDesktop97Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop90widget/GeneratedDesktop90Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop98widget/GeneratedDesktop98Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop91widget/GeneratedDesktop91Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop76widget/GeneratedDesktop76Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedimage14widget3/GeneratedImage14Widget3.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop92widget/GeneratedDesktop92Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop47widget/GeneratedDesktop47Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedupdateswidget/GeneratedUpdatesWidget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop50widget/GeneratedDesktop50Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop51widget/GeneratedDesktop51Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop52widget/GeneratedDesktop52Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedimage10widget8/GeneratedImage10Widget8.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop53widget/GeneratedDesktop53Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop54widget/GeneratedDesktop54Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop55widget/GeneratedDesktop55Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop56widget/GeneratedDesktop56Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop57widget/GeneratedDesktop57Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop58widget/GeneratedDesktop58Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop59widget/GeneratedDesktop59Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop60widget/GeneratedDesktop60Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop61widget/GeneratedDesktop61Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop62widget/GeneratedDesktop62Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop63widget/GeneratedDesktop63Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop64widget/GeneratedDesktop64Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop65widget/GeneratedDesktop65Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop66widget/GeneratedDesktop66Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop67widget/GeneratedDesktop67Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedimage15widget7/GeneratedImage15Widget7.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop68widget/GeneratedDesktop68Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedupdateswidget1/GeneratedUpdatesWidget1.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop83widget/GeneratedDesktop83Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop118widget/GeneratedDesktop118Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop99widget/GeneratedDesktop99Widget.dart';
+import 'package:flutterapp/mom2beapp/generateddesktop106widget/GeneratedDesktop106Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup67widget2/GeneratedGroup67Widget2.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup68widget/GeneratedGroup68Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedinstagrampost1widget/GeneratedInstagrampost1Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedpridewidget/GeneratedPrideWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedstraightwidget2/GeneratedStraightWidget2.dart';
+import 'package:flutterapp/mom2beapp/generatedwidget10/GeneratedWidget10.dart';
+import 'package:flutterapp/mom2beapp/generatedimage20widget/GeneratedImage20Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedstar2widget/GeneratedStar2Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedimage19widget/GeneratedImage19Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedwf1widget/GeneratedWf1Widget.dart';
+import 'package:flutterapp/mom2beapp/generatediphone141widget/GeneratedIPhone141Widget.dart';
+import 'package:flutterapp/mom2beapp/generatediphone142widget/GeneratedIPhone142Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedm2bloginwidget/GeneratedM2BLoginWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup1588widget/GeneratedGroup1588Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedm2bforumwidget/GeneratedM2BForumWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup1618widget/GeneratedGroup1618Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup1588widget2/GeneratedGroup1588Widget2.dart';
+import 'package:flutterapp/mom2beapp/generatedkatyeatgreenieswidget1/GeneratedKatyEatGreeniesWidget1.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup1589widget1/GeneratedGroup1589Widget1.dart';
+import 'package:flutterapp/mom2beapp/generatedm2bhomepagewidget/GeneratedM2BHomePageWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedvuesaxlinearheartsearchwidget6/GeneratedVuesaxlinearheartsearchWidget6.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup1589widget2/GeneratedGroup1589Widget2.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse52widget2/GeneratedEllipse52Widget2.dart';
+import 'package:flutterapp/mom2beapp/generated84widget2/Generated84Widget2.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup1586widget1/GeneratedGroup1586Widget1.dart';
+import 'package:flutterapp/mom2beapp/generatedvuesaxlinearaddcirclewidget6/GeneratedVuesaxlinearaddcircleWidget6.dart';
+import 'package:flutterapp/mom2beapp/generatedvuesaxlinearglobalwidget6/GeneratedVuesaxlinearglobalWidget6.dart';
+import 'package:flutterapp/mom2beapp/generateda41widget/GeneratedA41Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedm2blogowidget/GeneratedM2BLOGOWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup1614widget/GeneratedGroup1614Widget.dart';
+import 'package:flutterapp/mom2beapp/generateda43widget/GeneratedA43Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedm2bchatswidget/GeneratedM2BChatsWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedm2bmidwifeprofilewidget/GeneratedM2BMidwifeprofileWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedm2bmom2beprofilewidget/GeneratedM2BMom2BeprofileWidget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse56widget3/GeneratedEllipse56Widget3.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse46widget7/GeneratedEllipse46Widget7.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse57widget2/GeneratedEllipse57Widget2.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse55widget3/GeneratedEllipse55Widget3.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse53widget1/GeneratedEllipse53Widget1.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse49widget7/GeneratedEllipse49Widget7.dart';
+import 'package:flutterapp/mom2beapp/generatedgroup1626widget/GeneratedGroup1626Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedm2bregwidget/GeneratedM2bregWidget.dart';
+import 'package:flutterapp/mom2beapp/generatediphone14pro2widget/GeneratedIPhone14Pro2Widget.dart';
+import 'package:flutterapp/mom2beapp/generatediphone14pro3widget/GeneratedIPhone14Pro3Widget.dart';
+import 'package:flutterapp/mom2beapp/generatedellipse65widget/GeneratedEllipse65Widget.dart';
+
+void main() {
+  runApp(mom2beApp());
+}
+
+class mom2beApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      initialRoute: '/GeneratedDesktop8Widget',
+      routes: {
+        '/GeneratedImage16Widget': (context) => GeneratedImage16Widget(),
+        '/GeneratedDesktop89Widget': (context) => GeneratedDesktop89Widget(),
+        '/GeneratedDesktop112Widget': (context) => GeneratedDesktop112Widget(),
+        '/GeneratedDesktop45Widget': (context) => GeneratedDesktop45Widget(),
+        '/GeneratedDesktop87Widget': (context) => GeneratedDesktop87Widget(),
+        '/GeneratedDesktop117Widget': (context) => GeneratedDesktop117Widget(),
+        '/GeneratedDesktop4Widget': (context) => GeneratedDesktop4Widget(),
+        '/GeneratedDesktop7Widget': (context) => GeneratedDesktop7Widget(),
+        '/GeneratedDesktop5Widget': (context) => GeneratedDesktop5Widget(),
+        '/GeneratedDesktop6Widget': (context) => GeneratedDesktop6Widget(),
+        '/GeneratedDesktop8Widget': (context) => GeneratedDesktop8Widget(),
+        '/GeneratedDesktop17Widget': (context) => GeneratedDesktop17Widget(),
+        '/GeneratedDesktop9Widget': (context) => GeneratedDesktop9Widget(),
+        '/GeneratedDesktop18Widget': (context) => GeneratedDesktop18Widget(),
+        '/GeneratedDesktop13Widget': (context) => GeneratedDesktop13Widget(),
+        '/GeneratedDesktop15Widget': (context) => GeneratedDesktop15Widget(),
+        '/GeneratedDesktop16Widget': (context) => GeneratedDesktop16Widget(),
+        '/GeneratedDesktop11Widget': (context) => GeneratedDesktop11Widget(),
+        '/GeneratedSlice1Widget': (context) => GeneratedSlice1Widget(),
+        '/GeneratedDesktop12Widget': (context) => GeneratedDesktop12Widget(),
+        '/GeneratedDesktop25Widget': (context) => GeneratedDesktop25Widget(),
+        '/GeneratedDesktop22Widget': (context) => GeneratedDesktop22Widget(),
+        '/GeneratedDesktop14Widget': (context) => GeneratedDesktop14Widget(),
+        '/GeneratedDesktop19Widget': (context) => GeneratedDesktop19Widget(),
+        '/GeneratedDRAGONAJAYWidget': (context) => GeneratedDRAGONAJAYWidget(),
+        '/GeneratedDRAGONAJAYWidget1': (context) =>
+            GeneratedDRAGONAJAYWidget1(),
+        '/GeneratedRectangle34Widget4': (context) =>
+            GeneratedRectangle34Widget4(),
+        '/GeneratedRectangle35Widget4': (context) =>
+            GeneratedRectangle35Widget4(),
+        '/GeneratedDesktop23Widget': (context) => GeneratedDesktop23Widget(),
+        '/GeneratedDesktop24Widget': (context) => GeneratedDesktop24Widget(),
+        '/GeneratedEllipse12Widget': (context) => GeneratedEllipse12Widget(),
+        '/GeneratedEllipse13Widget': (context) => GeneratedEllipse13Widget(),
+        '/GeneratedEllipse17Widget': (context) => GeneratedEllipse17Widget(),
+        '/GeneratedEllipse19Widget': (context) => GeneratedEllipse19Widget(),
+        '/GeneratedEllipse18Widget': (context) => GeneratedEllipse18Widget(),
+        '/GeneratedEllipse14Widget': (context) => GeneratedEllipse14Widget(),
+        '/GeneratedEllipse15Widget': (context) => GeneratedEllipse15Widget(),
+        '/GeneratedEllipse16Widget': (context) => GeneratedEllipse16Widget(),
+        '/GeneratedEllipse20Widget': (context) => GeneratedEllipse20Widget(),
+        '/GeneratedDesktop26Widget': (context) => GeneratedDesktop26Widget(),
+        '/GeneratedDesktop27Widget': (context) => GeneratedDesktop27Widget(),
+        '/GeneratedGroup27Widget': (context) => GeneratedGroup27Widget(),
+        '/GeneratedBklaunchpageWidget': (context) =>
+            GeneratedBklaunchpageWidget(),
+        '/GeneratedBklaunchpageWidget1': (context) =>
+            GeneratedBklaunchpageWidget1(),
+        '/GeneratedBkloginWidget': (context) => GeneratedBkloginWidget(),
+        '/GeneratedBkloginWidget1': (context) => GeneratedBkloginWidget1(),
+        '/GeneratedFAQsWidget3': (context) => GeneratedFAQsWidget3(),
+        '/GeneratedBkselectinggenreWidget': (context) =>
+            GeneratedBkselectinggenreWidget(),
+        '/GeneratedBkcreateaccountWidget': (context) =>
+            GeneratedBkcreateaccountWidget(),
+        '/GeneratedBkprofileWidget': (context) => GeneratedBkprofileWidget(),
+        '/GeneratedPolygon17Widget': (context) => GeneratedPolygon17Widget(),
+        '/GeneratedPolygon18Widget': (context) => GeneratedPolygon18Widget(),
+        '/GeneratedBkuserprofileWidget': (context) =>
+            GeneratedBkuserprofileWidget(),
+        '/GeneratedBkuserprofileafterborrowWidget': (context) =>
+            GeneratedBkuserprofileafterborrowWidget(),
+        '/GeneratedReadingstatsWidget': (context) =>
+            GeneratedReadingstatsWidget(),
+        '/GeneratedFAQsWidget4': (context) => GeneratedFAQsWidget4(),
+        '/GeneratedBkgenredropdownWidget': (context) =>
+            GeneratedBkgenredropdownWidget(),
+        '/GeneratedFAQsWidget5': (context) => GeneratedFAQsWidget5(),
+        '/GeneratedReadinglogWidget7': (context) =>
+            GeneratedReadinglogWidget7(),
+        '/GeneratedBkpurchaseWidget': (context) => GeneratedBkpurchaseWidget(),
+        '/GeneratedBkpurchasesuccessfulWidget': (context) =>
+            GeneratedBkpurchasesuccessfulWidget(),
+        '/GeneratedBKTHUMBNAILWidget': (context) =>
+            GeneratedBKTHUMBNAILWidget(),
+        '/GeneratedFAQsWidget6': (context) => GeneratedFAQsWidget6(),
+        '/GeneratedBkhomepageWidget': (context) => GeneratedBkhomepageWidget(),
+        '/GeneratedFAQsWidget7': (context) => GeneratedFAQsWidget7(),
+        '/GeneratedBkhomepage2Widget': (context) =>
+            GeneratedBkhomepage2Widget(),
+        '/GeneratedFAQsWidget8': (context) => GeneratedFAQsWidget8(),
+        '/GeneratedBkhomepage1Widget': (context) =>
+            GeneratedBkhomepage1Widget(),
+        '/GeneratedFAQsWidget9': (context) => GeneratedFAQsWidget9(),
+        '/GeneratedBkgenresWidget': (context) => GeneratedBkgenresWidget(),
+        '/GeneratedDesktop28Widget': (context) => GeneratedDesktop28Widget(),
+        '/GeneratedDesktop30Widget': (context) => GeneratedDesktop30Widget(),
+        '/GeneratedDesktop101Widget': (context) => GeneratedDesktop101Widget(),
+        '/GeneratedDesktop104Widget': (context) => GeneratedDesktop104Widget(),
+        '/GeneratedDesktop108Widget': (context) => GeneratedDesktop108Widget(),
+        '/GeneratedLoginWidget15': (context) => GeneratedLoginWidget15(),
+        '/GeneratedDesktop100Widget': (context) => GeneratedDesktop100Widget(),
+        '/GeneratedDesktop107Widget': (context) => GeneratedDesktop107Widget(),
+        '/GeneratedDesktop49Widget': (context) => GeneratedDesktop49Widget(),
+        '/GeneratedDesktop48Widget': (context) => GeneratedDesktop48Widget(),
+        '/GeneratedDesktop115Widget': (context) => GeneratedDesktop115Widget(),
+        '/GeneratedEllipse35Widget1': (context) => GeneratedEllipse35Widget1(),
+        '/GeneratedVuesaxlinearhomeWidget6': (context) =>
+            GeneratedVuesaxlinearhomeWidget6(),
+        '/GeneratedCrackacookieWidget2': (context) =>
+            GeneratedCrackacookieWidget2(),
+        '/GeneratedDesktop75Widget': (context) => GeneratedDesktop75Widget(),
+        '/GeneratedHomeWidget10': (context) => GeneratedHomeWidget10(),
+        '/GeneratedVuesaxlinearhomeWidget8': (context) =>
+            GeneratedVuesaxlinearhomeWidget8(),
+        '/GeneratedRectangle2725Widget': (context) =>
+            GeneratedRectangle2725Widget(),
+        '/GeneratedDesktop33Widget': (context) => GeneratedDesktop33Widget(),
+        '/GeneratedDesktop80Widget': (context) => GeneratedDesktop80Widget(),
+        '/GeneratedDesktop84Widget': (context) => GeneratedDesktop84Widget(),
+        '/GeneratedDesktop93Widget': (context) => GeneratedDesktop93Widget(),
+        '/GeneratedDesktop82Widget': (context) => GeneratedDesktop82Widget(),
+        '/GeneratedDesktop110Widget': (context) => GeneratedDesktop110Widget(),
+        '/GeneratedDesktop42Widget': (context) => GeneratedDesktop42Widget(),
+        '/GeneratedDesktop111Widget': (context) => GeneratedDesktop111Widget(),
+        '/GeneratedDesktop88Widget': (context) => GeneratedDesktop88Widget(),
+        '/GeneratedDesktop105Widget': (context) => GeneratedDesktop105Widget(),
+        '/GeneratedDesktop102Widget': (context) => GeneratedDesktop102Widget(),
+        '/GeneratedDesktop103Widget': (context) => GeneratedDesktop103Widget(),
+        '/GeneratedDesktop43Widget': (context) => GeneratedDesktop43Widget(),
+        '/GeneratedDesktop44Widget': (context) => GeneratedDesktop44Widget(),
+        '/GeneratedGroup72Widget1': (context) => GeneratedGroup72Widget1(),
+        '/GeneratedDesktop46Widget': (context) => GeneratedDesktop46Widget(),
+        '/GeneratedDesktop97Widget': (context) => GeneratedDesktop97Widget(),
+        '/GeneratedDesktop90Widget': (context) => GeneratedDesktop90Widget(),
+        '/GeneratedDesktop98Widget': (context) => GeneratedDesktop98Widget(),
+        '/GeneratedDesktop91Widget': (context) => GeneratedDesktop91Widget(),
+        '/GeneratedDesktop76Widget': (context) => GeneratedDesktop76Widget(),
+        '/GeneratedImage14Widget3': (context) => GeneratedImage14Widget3(),
+        '/GeneratedDesktop92Widget': (context) => GeneratedDesktop92Widget(),
+        '/GeneratedDesktop47Widget': (context) => GeneratedDesktop47Widget(),
+        '/GeneratedUpdatesWidget': (context) => GeneratedUpdatesWidget(),
+        '/GeneratedDesktop50Widget': (context) => GeneratedDesktop50Widget(),
+        '/GeneratedDesktop51Widget': (context) => GeneratedDesktop51Widget(),
+        '/GeneratedDesktop52Widget': (context) => GeneratedDesktop52Widget(),
+        '/GeneratedImage10Widget8': (context) => GeneratedImage10Widget8(),
+        '/GeneratedDesktop53Widget': (context) => GeneratedDesktop53Widget(),
+        '/GeneratedDesktop54Widget': (context) => GeneratedDesktop54Widget(),
+        '/GeneratedDesktop55Widget': (context) => GeneratedDesktop55Widget(),
+        '/GeneratedDesktop56Widget': (context) => GeneratedDesktop56Widget(),
+        '/GeneratedDesktop57Widget': (context) => GeneratedDesktop57Widget(),
+        '/GeneratedDesktop58Widget': (context) => GeneratedDesktop58Widget(),
+        '/GeneratedDesktop59Widget': (context) => GeneratedDesktop59Widget(),
+        '/GeneratedDesktop60Widget': (context) => GeneratedDesktop60Widget(),
+        '/GeneratedDesktop61Widget': (context) => GeneratedDesktop61Widget(),
+        '/GeneratedDesktop62Widget': (context) => GeneratedDesktop62Widget(),
+        '/GeneratedDesktop63Widget': (context) => GeneratedDesktop63Widget(),
+        '/GeneratedDesktop64Widget': (context) => GeneratedDesktop64Widget(),
+        '/GeneratedDesktop65Widget': (context) => GeneratedDesktop65Widget(),
+        '/GeneratedDesktop66Widget': (context) => GeneratedDesktop66Widget(),
+        '/GeneratedDesktop67Widget': (context) => GeneratedDesktop67Widget(),
+        '/GeneratedImage15Widget7': (context) => GeneratedImage15Widget7(),
+        '/GeneratedDesktop68Widget': (context) => GeneratedDesktop68Widget(),
+        '/GeneratedUpdatesWidget1': (context) => GeneratedUpdatesWidget1(),
+        '/GeneratedDesktop83Widget': (context) => GeneratedDesktop83Widget(),
+        '/GeneratedDesktop118Widget': (context) => GeneratedDesktop118Widget(),
+        '/GeneratedDesktop99Widget': (context) => GeneratedDesktop99Widget(),
+        '/GeneratedDesktop106Widget': (context) => GeneratedDesktop106Widget(),
+        '/GeneratedGroup67Widget2': (context) => GeneratedGroup67Widget2(),
+        '/GeneratedGroup68Widget': (context) => GeneratedGroup68Widget(),
+        '/GeneratedInstagrampost1Widget': (context) =>
+            GeneratedInstagrampost1Widget(),
+        '/GeneratedPrideWidget': (context) => GeneratedPrideWidget(),
+        '/GeneratedStraightWidget2': (context) => GeneratedStraightWidget2(),
+        '/GeneratedWidget10': (context) => GeneratedWidget10(),
+        '/GeneratedImage20Widget': (context) => GeneratedImage20Widget(),
+        '/GeneratedStar2Widget': (context) => GeneratedStar2Widget(),
+        '/GeneratedImage19Widget': (context) => GeneratedImage19Widget(),
+        '/GeneratedWf1Widget': (context) => GeneratedWf1Widget(),
+        '/GeneratedIPhone141Widget': (context) => GeneratedIPhone141Widget(),
+        '/GeneratedIPhone142Widget': (context) => GeneratedIPhone142Widget(),
+        '/GeneratedM2BLoginWidget': (context) => GeneratedM2BLoginWidget(),
+        '/GeneratedGroup1588Widget': (context) => GeneratedGroup1588Widget(),
+        '/GeneratedM2BForumWidget': (context) => GeneratedM2BForumWidget(),
+        '/GeneratedGroup1618Widget': (context) => GeneratedGroup1618Widget(),
+        '/GeneratedGroup1588Widget2': (context) => GeneratedGroup1588Widget2(),
+        '/GeneratedKatyEatGreeniesWidget1': (context) =>
+            GeneratedKatyEatGreeniesWidget1(),
+        '/GeneratedGroup1589Widget1': (context) => GeneratedGroup1589Widget1(),
+        '/GeneratedM2BHomePageWidget': (context) =>
+            GeneratedM2BHomePageWidget(),
+        '/GeneratedVuesaxlinearheartsearchWidget6': (context) =>
+            GeneratedVuesaxlinearheartsearchWidget6(),
+        '/GeneratedGroup1589Widget2': (context) => GeneratedGroup1589Widget2(),
+        '/GeneratedEllipse52Widget2': (context) => GeneratedEllipse52Widget2(),
+        '/Generated84Widget2': (context) => Generated84Widget2(),
+        '/GeneratedGroup1586Widget1': (context) => GeneratedGroup1586Widget1(),
+        '/GeneratedVuesaxlinearaddcircleWidget6': (context) =>
+            GeneratedVuesaxlinearaddcircleWidget6(),
+        '/GeneratedVuesaxlinearglobalWidget6': (context) =>
+            GeneratedVuesaxlinearglobalWidget6(),
+        '/GeneratedA41Widget': (context) => GeneratedA41Widget(),
+        '/GeneratedM2BLOGOWidget': (context) => GeneratedM2BLOGOWidget(),
+        '/GeneratedGroup1614Widget': (context) => GeneratedGroup1614Widget(),
+        '/GeneratedA43Widget': (context) => GeneratedA43Widget(),
+        '/GeneratedM2BChatsWidget': (context) => GeneratedM2BChatsWidget(),
+        '/GeneratedM2BMidwifeprofileWidget': (context) =>
+            GeneratedM2BMidwifeprofileWidget(),
+        '/GeneratedM2BMom2BeprofileWidget': (context) =>
+            GeneratedM2BMom2BeprofileWidget(),
+        '/GeneratedEllipse56Widget3': (context) => GeneratedEllipse56Widget3(),
+        '/GeneratedEllipse46Widget7': (context) => GeneratedEllipse46Widget7(),
+        '/GeneratedEllipse57Widget2': (context) => GeneratedEllipse57Widget2(),
+        '/GeneratedEllipse55Widget3': (context) => GeneratedEllipse55Widget3(),
+        '/GeneratedEllipse53Widget1': (context) => GeneratedEllipse53Widget1(),
+        '/GeneratedEllipse49Widget7': (context) => GeneratedEllipse49Widget7(),
+        '/GeneratedGroup1626Widget': (context) => GeneratedGroup1626Widget(),
+        '/GeneratedM2bregWidget': (context) => GeneratedM2bregWidget(),
+        '/GeneratedIPhone14Pro2Widget': (context) =>
+            GeneratedIPhone14Pro2Widget(),
+        '/GeneratedIPhone14Pro3Widget': (context) =>
+            GeneratedIPhone14Pro3Widget(),
+        '/GeneratedEllipse65Widget': (context) => GeneratedEllipse65Widget(),
+      },
+    );
+  }
+}
